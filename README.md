@@ -1,4 +1,4 @@
-# Assignment6
+# Assignment7
 # Instructions
 1. Complete the functions in the files solve_milp_jump.jl and solve_milp_bb.jl so that tests pass.
 
