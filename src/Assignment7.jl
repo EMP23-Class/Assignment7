@@ -1,4 +1,4 @@
-module Assignment6
+module Assignment7
 
 using JuMP
 using HiGHS
@@ -11,4 +11,4 @@ include("solve_milp_bb.jl")
 
 export solve_milp_jump, burrito_to_standard_form, solve_milp_bb
 
-end # module Assignment6
+end # module Assignment7
